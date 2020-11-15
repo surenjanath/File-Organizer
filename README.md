@@ -9,7 +9,8 @@ use the website :   https://mborgerson.com/creating-an-executable-from-a-python-
 
 I will provide both code and exe files incase you don't have python. 
 Just run the executable file and point to the directory. 
-Use CTRL V to paste the code into the console.  
+
+Use CTRL V to paste the directory into the console.  
 Github :  
 
 ------------------------------------------------------------ 
